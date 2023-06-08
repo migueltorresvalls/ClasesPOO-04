@@ -1,0 +1,7 @@
+12true456rojo1
+245false111azul2
+1true4verde3
+800false67azul2
+-1false33rojo2
+1false-1rojo2
+-1true-1rojo3
